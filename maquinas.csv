@@ -1,0 +1,3 @@
+Name,InstanceType,ImageId
+Servidor-Web,t2.micro,ami-0d97d7f07b25dd693
+Servidor-DB,t2.micro,ami-0d97d7f07b25dd693
